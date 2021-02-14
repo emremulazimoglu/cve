@@ -29,7 +29,7 @@ Software: up to and including Firmware 1.0.1 Build 20200403 Rel 72167
 ```
 
 ### History:
-- 25.08.2020 Vulnerability reported tovVendor.
+- 25.08.2020 Vulnerability reported to Vendor.
 - 15.09.2020 Vendor responded with a test firmware, but it was still vulnerable.
 - 23.09.2020 Vendor responded with a second firmware, it was resolved.
 - 27.10.2020 Vendor published new firmware. https://www.tp-link.com/us/support/download/tl-wa850re/v6/#Firmware
