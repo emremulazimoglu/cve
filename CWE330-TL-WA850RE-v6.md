@@ -33,5 +33,5 @@ Software: up to and including Firmware 1.0.1 Build 20200403 Rel 72167
 - 15.09.2020 Vendor responded with a test firmware, but it was still vulnerable.
 - 23.09.2020 Vendor responded with a second firmware, it was resolved.
 - 27.10.2020 Vendor published new firmware. https://www.tp-link.com/us/support/download/tl-wa850re/v6/#Firmware
-- 08.01.2022 Reported to MITRE
+- 08.01.2022 Reported to MITRE.
 - 18.02.2022 CVE-2022-22922 is assigned. https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-22922
